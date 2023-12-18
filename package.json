@@ -1,0 +1,15 @@
+{
+  "name": "algorithme_test_jest",
+  "version": "1.0.0",
+  "description": "This repository serves as a collection of various algorithms implemented in JavaScript. Each algorithm is thoroughly tested using Jest, a popular testing framework for JavaScript applications. The tests ensure the correctness and reliability of the algorithms, providing a comprehensive suite for validation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
